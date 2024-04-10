@@ -12,9 +12,7 @@ Some of the Git commands I used in this so far are:
 Git add 
 Git push
 Git commit 
-```
-[Here are some cool commands, External Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
-[Here is the Relative Link](Screenshots.md)  
+``` 
 Under division Clsses I have taken at UCSD are: 
 - CSE 12
 - CSE 15L
