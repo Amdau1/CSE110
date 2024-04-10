@@ -14,4 +14,4 @@ Git push
 Git commit 
 ```
 [Here are some cool commands](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
-[Here](CSE110/Screenshots.md)
+[Here](Screenshots.md)
