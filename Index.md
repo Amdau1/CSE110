@@ -13,5 +13,19 @@ Git add
 Git push
 Git commit 
 ```
-[Here are some cool commands](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
-[Here](Screenshots.md)
+[Here are some cool commands, External Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
+[Here is the Relative Link](Screenshots.md)  
+Under division Clsses I have taken at UCSD are: 
+- CSE 12
+- CSE 15L
+- CSE 30
+
+Upper Division Classses I have takes at UCSD are:
+1. CSE 100
+2. CSE 101
+3. CSE 105
+
+Some of the classes I still need to take are:  
+- [ ] CSE 120
+- [ ] CSE 140
+- [ ] CSE 141
